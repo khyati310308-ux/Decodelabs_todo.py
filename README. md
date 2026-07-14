@@ -1,0 +1,27 @@
+# To-Do List Application
+
+## Description
+This is a simple command-line To-Do List application developed using Python. It allows users to add tasks and view their task list.
+
+## Features
+- Add new tasks
+- View all tasks
+- Simple menu-driven interface
+
+## Technologies Used
+- Python 3
+
+## How to Run
+1. Open the project in Pydroid 3 or any Python IDE.
+2. Run the `todo.py` file.
+3. Follow the on-screen menu.
+
+## Project Structure
+```
+To-Do-List/
+│── todo.py
+│── README.md
+```
+
+## Author
+Khyati Patwa
